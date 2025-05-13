@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/DecaySelector/static/css/main.e6c13ad2.css",
+    "main.js": "/DecaySelector/static/js/main.240ac331.js",
+    "index.html": "/DecaySelector/index.html",
+    "main.e6c13ad2.css.map": "/DecaySelector/static/css/main.e6c13ad2.css.map",
+    "main.240ac331.js.map": "/DecaySelector/static/js/main.240ac331.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.240ac331.js"
+  ]
+}
